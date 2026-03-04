@@ -9,7 +9,7 @@ export default function Hobby() {
         <section className="hobby section">
             <div className="container">
                 <div className="hobby-card reveal">
-                    <div className="hobby-ps">P.S.</div>
+                    <div className="hobby-ps mb-0px">P.S.</div>
                     <div className="hobby-card-inner">
                         <div className="hobby-content">
                             <div className="hobby-emoji">🏓</div>
@@ -20,7 +20,7 @@ export default function Hobby() {
                             <p>
                                 When I&apos;m not auditing smart contracts or shipping code,
                                 you&apos;ll find me at the table. I take my smashes as
-                                seriously as my invariant tests — and I rarely lose either.
+                                seriously as my invariant tests  and I rarely lose either.
                             </p>
                             <div className="hobby-challenge">
                                 <span className="hobby-challenge-dot"></span>

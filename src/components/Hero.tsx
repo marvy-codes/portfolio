@@ -18,7 +18,7 @@ export default function Hero() {
 
                         <p className="hero-subtitle">
                             Smart Contract Security Researcher with 5+ years building
-                            production-grade software across Web2 and Web3. I help teams build
+                            production grade software across Web2 and Web3. I help teams build
                             secure, scalable blockchain and backend systems that don&apos;t
                             break in production.
                         </p>

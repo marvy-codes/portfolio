@@ -8,7 +8,7 @@ export default function Footer() {
                     </h2>
                     <p>
                         Building DeFi infrastructure, complex value accounting, or Web3
-                        applications? I&apos;m interested — let&apos;s talk.
+                        applications? I&apos;m interested let&apos;s talk.
                     </p>
                     <a
                         href="https://discordapp.com/users/826549073217585162"

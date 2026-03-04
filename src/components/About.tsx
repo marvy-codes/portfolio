@@ -22,7 +22,7 @@ export default function About() {
                         </p>
                         <p>
                             Over the past few years, I&apos;ve specialized in DeFi
-                            architecture and smart contract security — analysing invariant
+                            architecture and smart contract security analysing invariant
                             violations, vault accounting models, and protocol-level risks
                             across competitive audits and independent research.
                         </p>

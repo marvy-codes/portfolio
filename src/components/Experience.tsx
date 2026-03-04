@@ -47,7 +47,7 @@ export default function Experience() {
                     <span className="gradient-text">Made an Impact</span>
                 </h2>
                 <p className="section-subtitle reveal">
-                    Building production-grade systems across Web2 and Web3.
+                    Building production grade systems across Web2 and Web3.
                 </p>
 
                 <div className="experience-timeline">
