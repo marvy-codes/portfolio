@@ -9,6 +9,7 @@ import Experience from "@/components/Experience";
 import AuditFindings from "@/components/AuditFindings";
 import SecurityTools from "@/components/SecurityTools";
 import Writing from "@/components/Writing";
+import Hobby from "@/components/Hobby";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -25,6 +26,7 @@ export default function Home() {
         <AuditFindings />
         <SecurityTools />
         <Writing />
+        <Hobby />
       </main>
       <Footer />
     </>

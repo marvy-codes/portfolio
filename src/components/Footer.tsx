@@ -16,7 +16,7 @@ export default function Footer() {
                         rel="noopener noreferrer"
                         className="footer-email"
                     >
-                        📩 DM Open for Audits
+                        📩 DM lets build and secure
                     </a>
                 </div>
 
