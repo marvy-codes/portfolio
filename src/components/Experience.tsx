@@ -1,5 +1,15 @@
 const experiences = [
     {
+        date: "Mar 2024 – present",
+        role: "Freelance Security Researcher",
+        company: "sherlock & code4arena",
+        type: "",
+        points: [
+            "Auditing DEFI smart contracts",
+            "Performing fuzz and invariant testing"
+        ],
+    },
+    {
         date: "Feb 2021 – Oct 2022",
         role: "Front-End Developer",
         company: "DotCircle Labs",
@@ -34,7 +44,7 @@ const experiences = [
             "Improved system performance and stability across web applications",
             "Led development decisions and technical direction",
         ],
-    },
+    }
 ];
 
 export default function Experience() {
